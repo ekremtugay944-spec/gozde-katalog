@@ -815,7 +815,9 @@
       div.style.animationDelay = `${Math.min(index * 0.02, 0.5)}s`;
 
       const renkBilgi = kategoriRenkler[urun.kategori_kodu] || { renk: '#555', acik: '#eee' };
-      const gorselYol = `public/images/${urun.fotograf_dosya || urun.sku + '.jpg'}`;
+      // Decap CMS bazen /public/images/... olarak kaydeder, normalize et
+      const foto = (urun.fotograf_dosya || '').replace(/^\//, '');
+      const gorselYol = foto ? foto : `public/images/${urun.sku}.jpg`;
       const waLinki = buildWhatsAppLink(urun);
 
       // Özellik metni: ağırlık veya boyut

@@ -3,7 +3,7 @@
     {
       "alt_tip": "Standart",
       "fotograf_dosya": "FB-TOP-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "240",
       "kategori_adi": "FB - Futbol Topları",
@@ -45,7 +45,7 @@
     {
       "alt_tip": "Parlak",
       "fotograf_dosya": "FB-TOP-004.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "350",
       "kategori_adi": "FB - Futbol Topları",
@@ -59,7 +59,7 @@
     {
       "alt_tip": "Soft",
       "fotograf_dosya": "FB-TOP-005.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "350",
       "kategori_adi": "FB - Futbol Topları",
@@ -73,7 +73,7 @@
     {
       "alt_tip": "4 Astar",
       "fotograf_dosya": "FB-TOP-006.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "440",
       "kategori_adi": "FB - Futbol Topları",
@@ -87,7 +87,7 @@
     {
       "alt_tip": "Prime",
       "fotograf_dosya": "FB-TOP-007.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "Yeni modeller FB-TOP-007-01 vb. eklenecek",
       "agirlik_gr": "440",
       "kategori_adi": "FB - Futbol Topları",
@@ -101,7 +101,7 @@
     {
       "alt_tip": "Yapıştırma",
       "fotograf_dosya": "FB-TOP-008.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "440",
       "kategori_adi": "FB - Futbol Topları",
@@ -115,7 +115,7 @@
     {
       "alt_tip": "Standart",
       "fotograf_dosya": "VB-TOP-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "270",
       "kategori_adi": "VB - Voleybol Topları",
@@ -129,7 +129,7 @@
     {
       "alt_tip": "Soft",
       "fotograf_dosya": "VB-TOP-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "270",
       "kategori_adi": "VB - Voleybol Topları",
@@ -143,7 +143,7 @@
     {
       "alt_tip": "Soft",
       "fotograf_dosya": "VB-TOP-003.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "270",
       "kategori_adi": "VB - Voleybol Topları",
@@ -157,7 +157,7 @@
     {
       "alt_tip": "Yapıştırma",
       "fotograf_dosya": "VB-TOP-004.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "420",
       "kategori_adi": "VB - Voleybol Topları",
@@ -171,7 +171,7 @@
     {
       "alt_tip": "Aksesuar",
       "fotograf_dosya": "VB-TOP-005.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "VB - Voleybol Topları",
@@ -185,7 +185,7 @@
     {
       "alt_tip": "Aksesuar",
       "fotograf_dosya": "VB-TOP-006.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "VB - Voleybol Topları",
@@ -199,7 +199,7 @@
     {
       "alt_tip": "Standart",
       "fotograf_dosya": "BK-TOP-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "290",
       "kategori_adi": "BK - Basketbol Topları",
@@ -213,7 +213,7 @@
     {
       "alt_tip": "Standart",
       "fotograf_dosya": "BK-TOP-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "400",
       "kategori_adi": "BK - Basketbol Topları",
@@ -227,7 +227,7 @@
     {
       "alt_tip": "Standart",
       "fotograf_dosya": "BK-TOP-003.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "500",
       "kategori_adi": "BK - Basketbol Topları",
@@ -241,7 +241,7 @@
     {
       "alt_tip": "Renkli",
       "fotograf_dosya": "BK-TOP-004.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "Çoklu renk seçeneği",
       "agirlik_gr": "500",
       "kategori_adi": "BK - Basketbol Topları",
@@ -255,7 +255,7 @@
     {
       "alt_tip": "Pota",
       "fotograf_dosya": "BK-POT-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "Duvara monte",
       "agirlik_gr": "",
       "kategori_adi": "BK - Basketbol Topları",
@@ -269,7 +269,7 @@
     {
       "alt_tip": "Pota",
       "fotograf_dosya": "BK-POT-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "Duvara monte",
       "agirlik_gr": "",
       "kategori_adi": "BK - Basketbol Topları",
@@ -283,7 +283,7 @@
     {
       "alt_tip": "Pota Ayaklı",
       "fotograf_dosya": "BK-POT-003.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "BK - Basketbol Topları",
@@ -297,7 +297,7 @@
     {
       "alt_tip": "Pota Ayaklı",
       "fotograf_dosya": "BK-POT-004.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "BK - Basketbol Topları",
@@ -311,7 +311,7 @@
     {
       "alt_tip": "Pota",
       "fotograf_dosya": "BK-POT-005.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "BK - Basketbol Topları",
@@ -325,7 +325,7 @@
     {
       "alt_tip": "Pota",
       "fotograf_dosya": "BK-POT-006.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "3 top dahil",
       "agirlik_gr": "",
       "kategori_adi": "BK - Basketbol Topları",
@@ -339,7 +339,7 @@
     {
       "alt_tip": "Parlak",
       "fotograf_dosya": "HT-TOP-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "HT - Hentbol Topları",
@@ -353,7 +353,7 @@
     {
       "alt_tip": "Soft",
       "fotograf_dosya": "HT-TOP-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "HT - Hentbol Topları",
@@ -367,7 +367,7 @@
     {
       "alt_tip": "70gr - 21cm",
       "fotograf_dosya": "PL-TOP-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "70",
       "kategori_adi": "PL - Plastik Toplar",
@@ -381,7 +381,7 @@
     {
       "alt_tip": "70gr - 21cm",
       "fotograf_dosya": "PL-TOP-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "70",
       "kategori_adi": "PL - Plastik Toplar",
@@ -395,7 +395,7 @@
     {
       "alt_tip": "70gr - 21cm",
       "fotograf_dosya": "PL-TOP-003.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "70",
       "kategori_adi": "PL - Plastik Toplar",
@@ -409,7 +409,7 @@
     {
       "alt_tip": "70gr - 21cm",
       "fotograf_dosya": "PL-TOP-004.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "70",
       "kategori_adi": "PL - Plastik Toplar",
@@ -423,7 +423,7 @@
     {
       "alt_tip": "Mini Top",
       "fotograf_dosya": "PL-TOP-005.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -437,7 +437,7 @@
     {
       "alt_tip": "Mini Top",
       "fotograf_dosya": "PL-TOP-006.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -451,7 +451,7 @@
     {
       "alt_tip": "Mini Top",
       "fotograf_dosya": "PL-TOP-007.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -465,7 +465,7 @@
     {
       "alt_tip": "Mini Top",
       "fotograf_dosya": "PL-TOP-008.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -479,7 +479,7 @@
     {
       "alt_tip": "Mini Top",
       "fotograf_dosya": "PL-TOP-009.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "50",
       "kategori_adi": "PL - Plastik Toplar",
@@ -493,7 +493,7 @@
     {
       "alt_tip": "200gr - 22cm",
       "fotograf_dosya": "PL-TOP-010.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "200",
       "kategori_adi": "PL - Plastik Toplar",
@@ -507,7 +507,7 @@
     {
       "alt_tip": "Özel",
       "fotograf_dosya": "PL-TOP-011.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -521,7 +521,7 @@
     {
       "alt_tip": "Özel",
       "fotograf_dosya": "PL-TOP-012.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -535,7 +535,7 @@
     {
       "alt_tip": "Dikenli",
       "fotograf_dosya": "PL-TOP-013.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "8 farklı renk/model",
       "agirlik_gr": "90",
       "kategori_adi": "PL - Plastik Toplar",
@@ -549,7 +549,7 @@
     {
       "alt_tip": "90gr - 22cm",
       "fotograf_dosya": "PL-TOP-014.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "90",
       "kategori_adi": "PL - Plastik Toplar",
@@ -563,7 +563,7 @@
     {
       "alt_tip": "Mini Top",
       "fotograf_dosya": "PL-TOP-015.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -577,7 +577,7 @@
     {
       "alt_tip": "Özel",
       "fotograf_dosya": "PL-TOP-016.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -591,7 +591,7 @@
     {
       "alt_tip": "Özel",
       "fotograf_dosya": "PL-TOP-017.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -605,7 +605,7 @@
     {
       "alt_tip": "Özel",
       "fotograf_dosya": "PL-TOP-018.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -619,7 +619,7 @@
     {
       "alt_tip": "Şişme",
       "fotograf_dosya": "PL-TOP-019.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -633,7 +633,7 @@
     {
       "alt_tip": "Özel",
       "fotograf_dosya": "PL-TOP-020.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -647,7 +647,7 @@
     {
       "alt_tip": "Stres Topu",
       "fotograf_dosya": "PL-TOP-021.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -661,7 +661,7 @@
     {
       "alt_tip": "Stres Topu",
       "fotograf_dosya": "PL-TOP-022.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -675,7 +675,7 @@
     {
       "alt_tip": "Stres Topu",
       "fotograf_dosya": "PL-TOP-023.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "PL - Plastik Toplar",
@@ -689,7 +689,7 @@
     {
       "alt_tip": "Pompa",
       "fotograf_dosya": "AK-PMP-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -703,7 +703,7 @@
     {
       "alt_tip": "Pompa",
       "fotograf_dosya": "AK-PMP-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -717,7 +717,7 @@
     {
       "alt_tip": "Pompa Dijital",
       "fotograf_dosya": "AK-PMP-003.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -731,7 +731,7 @@
     {
       "alt_tip": "Pompa Dijital",
       "fotograf_dosya": "AK-PMP-004.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -745,7 +745,7 @@
     {
       "alt_tip": "Badminton",
       "fotograf_dosya": "AK-BDM-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -759,7 +759,7 @@
     {
       "alt_tip": "Badminton",
       "fotograf_dosya": "AK-BDM-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "Çanta dahil",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -773,7 +773,7 @@
     {
       "alt_tip": "Badminton",
       "fotograf_dosya": "AK-BDM-003.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -787,7 +787,7 @@
     {
       "alt_tip": "Badminton",
       "fotograf_dosya": "AK-BDT-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "6'lı tüp",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -801,7 +801,7 @@
     {
       "alt_tip": "Masa Tenisi",
       "fotograf_dosya": "AK-MTS-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "2 raket + 3 top",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -815,7 +815,7 @@
     {
       "alt_tip": "Masa Tenisi",
       "fotograf_dosya": "AK-MTS-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "File dahil",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -829,7 +829,7 @@
     {
       "alt_tip": "Masa Tenisi",
       "fotograf_dosya": "AK-MTS-003.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "Çanta dahil",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -843,7 +843,7 @@
     {
       "alt_tip": "Masa Tenisi",
       "fotograf_dosya": "AK-MTS-004.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -857,7 +857,7 @@
     {
       "alt_tip": "Masa Tenisi",
       "fotograf_dosya": "AK-MTS-005.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -871,7 +871,7 @@
     {
       "alt_tip": "Eldiven",
       "fotograf_dosya": "AK-ELD-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -885,7 +885,7 @@
     {
       "alt_tip": "Eldiven",
       "fotograf_dosya": "AK-ELD-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -899,7 +899,7 @@
     {
       "alt_tip": "Eldiven",
       "fotograf_dosya": "AK-ELD-003.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -913,7 +913,7 @@
     {
       "alt_tip": "Eldiven",
       "fotograf_dosya": "AK-ELD-004.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -927,7 +927,7 @@
     {
       "alt_tip": "Eldiven",
       "fotograf_dosya": "AK-ELD-005.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -941,7 +941,7 @@
     {
       "alt_tip": "Eldiven",
       "fotograf_dosya": "AK-ELD-006.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -955,7 +955,7 @@
     {
       "alt_tip": "Fitness",
       "fotograf_dosya": "AK-ELY-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "3 renk",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -969,7 +969,7 @@
     {
       "alt_tip": "Fitness",
       "fotograf_dosya": "AK-ELY-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -983,7 +983,7 @@
     {
       "alt_tip": "Fitness",
       "fotograf_dosya": "AK-DRN-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -997,7 +997,7 @@
     {
       "alt_tip": "Dart",
       "fotograf_dosya": "AK-DRT-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1011,7 +1011,7 @@
     {
       "alt_tip": "Dart",
       "fotograf_dosya": "AK-DRT-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1025,7 +1025,7 @@
     {
       "alt_tip": "Dart",
       "fotograf_dosya": "AK-DRT-003.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1039,7 +1039,7 @@
     {
       "alt_tip": "Dart",
       "fotograf_dosya": "AK-DRT-004.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1053,7 +1053,7 @@
     {
       "alt_tip": "Atlama İpi",
       "fotograf_dosya": "AK-ATL-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1067,7 +1067,7 @@
     {
       "alt_tip": "Atlama İpi",
       "fotograf_dosya": "AK-ATL-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1081,7 +1081,7 @@
     {
       "alt_tip": "Kum Torbası",
       "fotograf_dosya": "AK-KUM-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1095,7 +1095,7 @@
     {
       "alt_tip": "Kum Torbası",
       "fotograf_dosya": "AK-KUM-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1109,7 +1109,7 @@
     {
       "alt_tip": "Pazubandı",
       "fotograf_dosya": "AK-PAZ-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1123,7 +1123,7 @@
     {
       "alt_tip": "Pazubandı",
       "fotograf_dosya": "AK-PAZ-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1137,7 +1137,7 @@
     {
       "alt_tip": "Deniz",
       "fotograf_dosya": "AK-DEN-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1151,7 +1151,7 @@
     {
       "alt_tip": "Deniz",
       "fotograf_dosya": "AK-DEN-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1165,7 +1165,7 @@
     {
       "alt_tip": "Deniz",
       "fotograf_dosya": "AK-DEN-003.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1179,7 +1179,7 @@
     {
       "alt_tip": "Deniz",
       "fotograf_dosya": "AK-DEN-004.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1193,7 +1193,7 @@
     {
       "alt_tip": "Deniz",
       "fotograf_dosya": "AK-DEN-005.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1207,7 +1207,7 @@
     {
       "alt_tip": "Deniz",
       "fotograf_dosya": "AK-DEN-006.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1221,7 +1221,7 @@
     {
       "alt_tip": "Deniz",
       "fotograf_dosya": "AK-DEN-007.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1235,7 +1235,7 @@
     {
       "alt_tip": "Beyzbol",
       "fotograf_dosya": "AK-BYZ-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1249,7 +1249,7 @@
     {
       "alt_tip": "Şişme",
       "fotograf_dosya": "AK-SHY-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "Büyük boy",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1263,7 +1263,7 @@
     {
       "alt_tip": "Oyuncak",
       "fotograf_dosya": "AK-ZZT-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "300",
       "kategori_adi": "AK - Aksesuar",
@@ -1277,7 +1277,7 @@
     {
       "alt_tip": "Amerikan Futbol",
       "fotograf_dosya": "AK-AMF-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1291,7 +1291,7 @@
     {
       "alt_tip": "Oyuncak",
       "fotograf_dosya": "AK-AYO-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1305,7 +1305,7 @@
     {
       "alt_tip": "Oyuncak",
       "fotograf_dosya": "AK-AYO-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1319,7 +1319,7 @@
     {
       "alt_tip": "Scooter",
       "fotograf_dosya": "AK-SCO-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1333,7 +1333,7 @@
     {
       "alt_tip": "Mat",
       "fotograf_dosya": "AK-MAT-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "AK - Aksesuar",
@@ -1347,7 +1347,7 @@
     {
       "alt_tip": "Tekmelik",
       "fotograf_dosya": "SP-TEK-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "SP - Spor Ekipmanları",
@@ -1361,7 +1361,7 @@
     {
       "alt_tip": "Tekmelik",
       "fotograf_dosya": "SP-TEK-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "SP - Spor Ekipmanları",
@@ -1375,7 +1375,7 @@
     {
       "alt_tip": "Tekmelik",
       "fotograf_dosya": "SP-TEK-003.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "SP - Spor Ekipmanları",
@@ -1389,7 +1389,7 @@
     {
       "alt_tip": "Paten",
       "fotograf_dosya": "SP-PAT-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "SP - Spor Ekipmanları",
@@ -1403,7 +1403,7 @@
     {
       "alt_tip": "Paten",
       "fotograf_dosya": "SP-PAT-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "SP - Spor Ekipmanları",
@@ -1417,7 +1417,7 @@
     {
       "alt_tip": "Paten",
       "fotograf_dosya": "SP-PAT-003.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "SP - Spor Ekipmanları",
@@ -1431,7 +1431,7 @@
     {
       "alt_tip": "Kaykay",
       "fotograf_dosya": "SP-KAY-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "SP - Spor Ekipmanları",
@@ -1445,7 +1445,7 @@
     {
       "alt_tip": "Tenis",
       "fotograf_dosya": "SP-TEN-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "SP - Spor Ekipmanları",
@@ -1459,7 +1459,7 @@
     {
       "alt_tip": "Holihop",
       "fotograf_dosya": "SP-HOL-001.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "SP - Spor Ekipmanları",
@@ -1473,7 +1473,7 @@
     {
       "alt_tip": "Holihop",
       "fotograf_dosya": "SP-HOL-002.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "SP - Spor Ekipmanları",
@@ -1487,7 +1487,7 @@
     {
       "alt_tip": "Holihop",
       "fotograf_dosya": "SP-HOL-003.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "SP - Spor Ekipmanları",
@@ -1501,7 +1501,7 @@
     {
       "alt_tip": "Holihop",
       "fotograf_dosya": "SP-HOL-004.jpg",
-      "aktif": false,
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "",
       "kategori_adi": "SP - Spor Ekipmanları",
