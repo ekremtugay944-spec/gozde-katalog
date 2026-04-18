@@ -1,0 +1,58 @@
+[
+  {
+    "kod": "FB",
+    "ad": "Futbol Topları",
+    "renk": "#1A5276",
+    "acik_renk": "#D6EAF8",
+    "ikon": "⚽",
+    "urun_sayisi": 8
+  },
+  {
+    "kod": "VB",
+    "ad": "Voleybol Topları",
+    "renk": "#145A32",
+    "acik_renk": "#D5F5E3",
+    "ikon": "🏐",
+    "urun_sayisi": 6
+  },
+  {
+    "kod": "BK",
+    "ad": "Basketbol",
+    "renk": "#784212",
+    "acik_renk": "#FAE5D3",
+    "ikon": "🏀",
+    "urun_sayisi": 10
+  },
+  {
+    "kod": "HT",
+    "ad": "Hentbol Topları",
+    "renk": "#6E2F8A",
+    "acik_renk": "#F0E6F6",
+    "ikon": "🤾",
+    "urun_sayisi": 2
+  },
+  {
+    "kod": "PL",
+    "ad": "Plastik Toplar",
+    "renk": "#4A235A",
+    "acik_renk": "#E8DAEF",
+    "ikon": "🔵",
+    "urun_sayisi": 23
+  },
+  {
+    "kod": "AK",
+    "ad": "Aksesuar",
+    "renk": "#1B2631",
+    "acik_renk": "#D5D8DC",
+    "ikon": "🎯",
+    "urun_sayisi": 37
+  },
+  {
+    "kod": "SP",
+    "ad": "Spor Ekipmanları",
+    "renk": "#B7770D",
+    "acik_renk": "#FDEBD0",
+    "ikon": "🛹",
+    "urun_sayisi": 12
+  }
+]

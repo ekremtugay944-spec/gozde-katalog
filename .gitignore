@@ -1,0 +1,15 @@
+# Agent ve sistem dosyaları (site için gerekli değil)
+agents/
+MASTER_PROMPT.md
+SYSTEM_PROMPT.md
+docs/
+scripts/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
