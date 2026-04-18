@@ -774,83 +774,19 @@
     ============================== */
     async function loadProducts() {
       try {
-        const yanit = await fetch('data/products.csv');
-        if (!yanit.ok) throw new Error('CSV yüklenemedi');
-        const metin = await yanit.text();
-        const urunler = parseCSV(metin);
+        const yanit = await fetch('data/products.json');
+        if (!yanit.ok) throw new Error('Ürün verisi yüklenemedi');
+        const veri = await yanit.json();
+        const urunler = (veri.urunler || []).filter(u => u.aktif !== false);
         durum.tumUrunler = urunler;
         renderProducts(urunler);
         kategoriSayaclariniGuncelle(urunler);
       } catch (hata) {
         console.error('Ürünler yüklenemedi:', hata);
-        // Hata durumunda kullanıcıya bilgi ver
         document.getElementById('bosDurum').classList.add('gorünür');
         document.getElementById('bosDurumBaslik').textContent = 'Katalog yüklenemedi';
         document.getElementById('bosDurumMetin').textContent = 'Lütfen sayfayı yenileyin veya WhatsApp ile iletişime geçin.';
       }
-    }
-
-    function parseCSV(metin) {
-      // UTF-8 BOM karakterini temizle
-      metin = metin.replace(/^\uFEFF/, '');
-      const satirlar = metin.split('\n');
-      if (satirlar.length < 2) return [];
-
-      // Başlık satırını bul (sku ile başlayan)
-      let baslikIndex = -1;
-      for (let i = 0; i < satirlar.length; i++) {
-        if (satirlar[i].toLowerCase().startsWith('sku')) {
-          baslikIndex = i;
-          break;
-        }
-      }
-      if (baslikIndex === -1) return [];
-
-      const basliklar = satirlar[baslikIndex].split(';').map(s => s.trim());
-      const urunler = [];
-
-      for (let i = baslikIndex + 1; i < satirlar.length; i++) {
-        const satir = satirlar[i].trim();
-        if (!satir) continue;
-
-        // Noktalı virgülle böl (tırnak içindeki değerleri koru)
-        const degerler = csvSatiriParsela(satir);
-        if (degerler.length < 2) continue;
-
-        const urun = {};
-        basliklar.forEach((baslik, idx) => {
-          urun[baslik] = (degerler[idx] || '').trim();
-        });
-
-        // SKU zorunlu
-        if (!urun.sku || urun.sku === 'SKU') continue;
-
-        // Aktif filtresi
-        if (urun.aktif && urun.aktif.toLowerCase() === 'hayır') continue;
-
-        urunler.push(urun);
-      }
-      return urunler;
-    }
-
-    function csvSatiriParsela(satir) {
-      // Noktalı virgülle ayrılmış, tırnak içinde noktalı virgül olabilir
-      const sonuc = [];
-      let alan = '';
-      let tirnak = false;
-      for (let i = 0; i < satir.length; i++) {
-        const k = satir[i];
-        if (k === '"') {
-          tirnak = !tirnak;
-        } else if (k === ';' && !tirnak) {
-          sonuc.push(alan);
-          alan = '';
-        } else {
-          alan += k;
-        }
-      }
-      sonuc.push(alan);
-      return sonuc;
     }
 
     /* ==============================
@@ -1043,6 +979,18 @@
     document.addEventListener('DOMContentLoaded', () => {
       loadProducts();
     });
+  </script>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on('init', user => {
+        if (!user) {
+          window.netlifyIdentity.on('login', () => {
+            document.location.href = '/admin/';
+          });
+        }
+      });
+    }
   </script>
 </body>
 </html>

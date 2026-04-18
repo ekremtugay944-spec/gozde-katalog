@@ -1,0 +1,96 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: public/images
+public_folder: /public/images
+
+locale: tr
+
+slug:
+  encoding: ascii
+
+collections:
+  - name: urunler
+    label: Ürünler
+    label_singular: Ürün
+    files:
+      - name: urun_listesi
+        label: Ürün Listesi
+        file: data/products.json
+        fields:
+          - name: urunler
+            label: Ürünler
+            widget: list
+            summary: "{{fields.sku}} — {{fields.urun_adi}}"
+            fields:
+              - label: SKU Kodu
+                name: sku
+                widget: string
+                hint: "Örnek: FB-TOP-009 (benzersiz olmalı)"
+
+              - label: Ürün Adı
+                name: urun_adi
+                widget: string
+
+              - label: Kategori
+                name: kategori_kodu
+                widget: select
+                options:
+                  - { label: "⚽ Futbol Topları", value: FB }
+                  - { label: "🏐 Voleybol Topları", value: VB }
+                  - { label: "🏀 Basketbol", value: BK }
+                  - { label: "🤾 Hentbol Topları", value: HT }
+                  - { label: "🎈 Plastik Toplar", value: PL }
+                  - { label: "🎒 Aksesuar", value: AK }
+                  - { label: "🏋 Spor Ekipmanları", value: SP }
+
+              - label: Kategori Adı
+                name: kategori_adi
+                widget: string
+                required: false
+                hint: "Otomatik dolar, boş bırakabilirsin"
+
+              - label: Alt Tip / Model
+                name: alt_tip
+                widget: string
+                required: false
+
+              - label: Ağırlık (gram)
+                name: agirlik_gr
+                widget: string
+                required: false
+                hint: "Örnek: 420"
+
+              - label: Boyut / Beden
+                name: boyut_beden
+                widget: string
+                required: false
+                hint: "Örnek: No:5 veya 26cm"
+
+              - label: Materyal
+                name: materyal
+                widget: string
+                required: false
+
+              - label: Koli İçi Adet
+                name: koli_ici
+                widget: string
+                required: false
+
+              - label: Ürün Fotoğrafı
+                name: fotograf_dosya
+                widget: image
+                required: false
+                allow_multiple: false
+                hint: "Yüklenince public/images/ klasörüne gider"
+
+              - label: Aktif (Sitede Göster)
+                name: aktif
+                widget: boolean
+                default: true
+
+              - label: Notlar
+                name: notlar
+                widget: text
+                required: false
