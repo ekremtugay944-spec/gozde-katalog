@@ -16,7 +16,7 @@
     },
     {
       "alt_tip": "Standart",
-      "fotograf_dosya": "/public/images/cat_football.png",
+      "fotograf_dosya": "/public/images/Curves 114.png",
       "aktif": true,
       "notlar": "",
       "agirlik_gr": "270",
@@ -30,7 +30,7 @@
     },
     {
       "alt_tip": "Standart",
-      "fotograf_dosya": "/public/images/cat_football.png",
+      "fotograf_dosya": "/public/images/Curves 118.png",
       "aktif": true,
       "notlar": "",
       "agirlik_gr": "300",
@@ -72,7 +72,7 @@
     },
     {
       "alt_tip": "4 Astar",
-      "fotograf_dosya": "FB-TOP-006.jpg",
+      "fotograf_dosya": "/public/images/Curves 21.png",
       "aktif": true,
       "notlar": "",
       "agirlik_gr": "440",
@@ -86,13 +86,13 @@
     },
     {
       "alt_tip": "Prime",
-      "fotograf_dosya": "FB-TOP-007.jpg",
+      "fotograf_dosya": "/public/images/dsc06071.png",
       "aktif": true,
       "notlar": "Yeni modeller FB-TOP-007-01 vb. eklenecek",
       "agirlik_gr": "440",
       "kategori_adi": "FB - Futbol Topları",
       "kategori_kodu": "FB",
-      "koli_ici": "50",
+      "koli_ici": "60",
       "boyut_beden": "No.5",
       "materyal": "PU Deri",
       "sku": "FB-TOP-007",
