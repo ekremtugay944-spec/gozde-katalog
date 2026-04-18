@@ -30,8 +30,8 @@
     },
     {
       "alt_tip": "Standart",
-      "fotograf_dosya": "FB-TOP-003.jpg",
-      "aktif": false,
+      "fotograf_dosya": "/public/images/cat_football.png",
+      "aktif": true,
       "notlar": "",
       "agirlik_gr": "300",
       "kategori_adi": "FB - Futbol Topları",
